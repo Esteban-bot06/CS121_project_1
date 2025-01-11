@@ -1,6 +1,7 @@
 # Name
-  Esteban Urdaneta
+ **Esteban Urdaneta**
 ## Learn
-  Im hoping I can learn to be better at problem solving
+  Im hoping I can* learn* to be better at problem solving
 ### About me
-  Im from Argentina and Venezuela
+ - Im from Argentina
+ - and Venezuela
